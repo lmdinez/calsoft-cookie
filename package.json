@@ -1,6 +1,6 @@
 {
   "name": "@lmdinez/calsoft-cookie",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
@@ -15,8 +15,5 @@
   "typings": "calsoft-cookie.d.ts",
   "metadata": "calsoft-cookie.metadata.json",
   "sideEffects": false,
-  "dependencies": {
-    "tslib": "^1.9.0"
-  },
   "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
