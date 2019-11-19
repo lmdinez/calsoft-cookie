@@ -1,0 +1,21 @@
+{
+  "name": "calsoft-cookie",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "main": "bundles/calsoft-cookie.umd.js",
+  "module": "fesm5/calsoft-cookie.js",
+  "es2015": "fesm2015/calsoft-cookie.js",
+  "esm5": "esm5/calsoft-cookie.js",
+  "esm2015": "esm2015/calsoft-cookie.js",
+  "fesm5": "fesm5/calsoft-cookie.js",
+  "fesm2015": "fesm2015/calsoft-cookie.js",
+  "typings": "calsoft-cookie.d.ts",
+  "metadata": "calsoft-cookie.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
